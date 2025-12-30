@@ -7,8 +7,8 @@ Insights and recommendations are provided on the following key areas:
 
 * Sales Trends Analysis: Evaluation of sales patterns for 2024 focusing on Revenue, Order Volume, and Average Order Value (AOV).
 * Regional Comparison: An analysis of RetailCo various Stores by Region, understanding their performance on sales and orders.
-* Customer Type Analysis: An assessment of customers method of purchase impact on retention and sales.
-* Product Analysis: An evaluation of sales and orders by products on sales and orders.
+* Customer Type Analysis: An assessment of customers method of purchase impact on sales and orders.
+* Product Analysis: An evaluation of sales and orders by products.
 
 
 # **Data Structure and Intitial Checks**
