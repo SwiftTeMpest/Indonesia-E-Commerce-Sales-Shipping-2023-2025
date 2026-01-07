@@ -10,6 +10,8 @@ Insights and recommendations are provided on the following key areas:
 * Customer Type Analysis: An assessment of customers method of purchase impact on sales and orders.
 * Product Analysis: An evaluation of sales and orders by products.
 
+An interactive Tableau dashboard can be downloaded here.
+
 
 # **Data Structure and Intitial Checks**
 RetailCo database structure as seen below consists of three tables: Transaction, Csutomer, and Store, with a total row count of 750 records.
@@ -22,7 +24,7 @@ RetailCo database structure as seen below consists of three tables: Transaction,
 ### **Overview of Findings**
 The company sustained positive sales momentum into the most recent period, building on performance from 2023. All core performance indicators improved year over year, with order volume rising 22%, average order value increasing 10%, and revenue growing 1%. These results reflect a combination of operational and market-driven factors. The following sections provide an overview of the primary drivers of performance and outline key opportunities to further accelerate growth.
 
-Below is the overview dashboard from the tableau dashboard and more examples are included throughout the report. The entire interactive storyboard can be downloaded here.
+Below is the overview page from the tableau dashboard and more examples are included throughout the report. The entire interactive storyboard can be downloaded here.
 
 <img width="1673" height="936" alt="Screenshot (2186)" src="https://github.com/user-attachments/assets/815f656e-aacc-44c4-84a1-3b10ece019e8" />
 
